@@ -2,11 +2,37 @@ body {
     height: 100vh;
   }
 .col1 {
-    background: red;
+    background: lightgray;
 }
 .col2 {
     background: lightgray;
 }
 .col3 {
-    background: lightblue;
+    background: whitesmoke;
 }
+
+.btn-email {
+    margin-top: 5px;
+}
+/* Message received */
+.card {
+    margin-top: -500px;
+}
+.card-text {
+    text-align: left;
+}
+/* .from-to {
+    position: relative;
+    text-align: left;
+    padding: 5px;
+    margin-top: -500px;
+} */
+/* .message {
+    text-align: left;
+    padding: 5px;
+} */
+
+/* .d-flex {
+    display: flex;
+    flex-direction: column;
+} */
