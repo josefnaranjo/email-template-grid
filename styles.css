@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+  }
+.col1 {
+    background: red;
+}
+.col2 {
+    background: lightgray;
+}
+.col3 {
+    background: lightblue;
+}
