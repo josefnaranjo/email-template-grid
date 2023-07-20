@@ -1,3 +1,4 @@
+/* Body and columns */
 body {
     height: 100vh;
   }
@@ -11,6 +12,7 @@ body {
     background: whitesmoke;
 }
 
+/* Inbox and left buttons */
 .btn-email {
     margin-top: 5px;
 }
@@ -28,6 +30,7 @@ body {
 .card-text {
     text-align: left;
 }
+
 /* .from-to {
     position: relative;
     text-align: left;
