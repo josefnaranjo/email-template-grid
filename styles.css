@@ -14,7 +14,8 @@ body {
 
 /* Inbox and left buttons */
 .btn-email {
-    margin-top: 5px;
+    margin-top: 10px;
+    margin-bottom: 100px;
 }
 .btn-secondary {
     text-align: left;
@@ -30,19 +31,6 @@ body {
 .card-text {
     text-align: left;
 }
-
-/* .from-to {
-    position: relative;
-    text-align: left;
-    padding: 5px;
-    margin-top: -500px;
-} */
-/* .message {
-    text-align: left;
-    padding: 5px;
-} */
-
-/* .d-flex {
-    display: flex;
-    flex-direction: column;
-} */
+.nav-inbox {
+    text-align: start;
+}
