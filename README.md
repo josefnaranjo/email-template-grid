@@ -1,4 +1,7 @@
-# Email Template - Bootstrap
+#  E-mail App Template - Bootstrap
+#  Bay Valley Tech
+#  Module 1
+#  Jose F Naranjo
 
 For this project, I used Bootstrap to create an e-mail app template. The template has three breakpoints in the three columns implemented in this project (grid). 
 This e-mail template must work properly on mobile devices (phones), tablets, and desktops. Also, additional styling for the template was performed using CSS.
